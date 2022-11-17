@@ -3,7 +3,6 @@
 #include <iostream>
 using namespace std;
 
-
 void Admin::viewBuyers()
 {
 }

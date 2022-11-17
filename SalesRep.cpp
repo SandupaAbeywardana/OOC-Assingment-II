@@ -1,10 +1,11 @@
 #include "SalesRep.h"
+#include "Buyer.h"
 #include "Seller.h"
 #include <cstring>
 #include <iostream>
 using namespace std;
 
-void SalesRep::viewSDetails()
+void Seller::viewSDetails()
 {
   cout << "Seller ID = " << sellerID << endl;
 	cout << "Seller Name = " << sellerName << endl;
