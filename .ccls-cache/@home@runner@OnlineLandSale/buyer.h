@@ -11,9 +11,7 @@ Class Buyer
   
   public :
 
-      setBDetails(int bID, const
-
-char bName[], const char bEmail [],const char bContact []): void
+      void setBDetails(int bID, const char bName[], const char bEmail [],const char bContact []);
       
   
 
