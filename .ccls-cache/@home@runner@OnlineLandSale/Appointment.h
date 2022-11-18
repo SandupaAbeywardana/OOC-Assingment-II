@@ -1,6 +1,6 @@
 #pragma once
 
-Class Appointment
+class Appointment
 {
 private :
   int appointmentID; 

@@ -10,7 +10,7 @@ void Appointment::setAppDetails(int appID, int sID, int bID, int lID, int srID, 
 	buyerID = bID;
 	landID = lID;
   salesrepID = srID;
-  strcpy_s(appointmentDate, appDate);
-  strcpy_s(appointmentTime, appTime);
+  strcpy(appointmentDate, appDate);
+  strcpy(appointmentTime, appTime);
     
 }

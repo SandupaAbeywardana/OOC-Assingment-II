@@ -1,6 +1,6 @@
 #pragma once
 
-Class Admin
+class Admin
 {
 private:
   int adminID; 

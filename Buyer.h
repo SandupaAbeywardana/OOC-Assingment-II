@@ -1,6 +1,6 @@
 #pragma once
 
-Class Buyer
+class Buyer
 {
 private :
   int buyerID;
